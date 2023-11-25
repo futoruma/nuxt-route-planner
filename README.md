@@ -1,20 +1,20 @@
 ## (1) Install dependencies
 
-### \* node v20.9.0 was used during development
+\* node v20.9.0 was used during development
 
-npm install
+### npm install
 
 ## (2) Start mock JSON Server
 
-### https://github.com/typicode/json-server
+https://github.com/typicode/json-server
 
-### if necessary, install JSON Server with "npm install -g json-server"
+if necessary, install JSON Server with "npm install -g json-server"
 
-json-server --watch db.json --port 8080
+### json-server --watch db.json --port 8080
 
 ## (3) Start Nuxt development server
 
-npm run dev
+### npm run dev
 
 ##
 
