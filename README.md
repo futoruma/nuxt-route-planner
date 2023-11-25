@@ -22,6 +22,8 @@ if necessary, install JSON Server with "npm install -g json-server"
 
 ##
 
+##
+
 ### This is a mock route planner with mock transfer times. Please do not use this application for actual route planning.
 
 ### 架空の時刻表をもとにしたおもちゃアプリであり、実際の経路検索ではご利用いただけません。
