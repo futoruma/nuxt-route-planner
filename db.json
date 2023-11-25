@@ -1,0 +1,337 @@
+{
+  "selectedroutes": [
+    {
+      "timestamp": "2023-11-14T11:53:39.341Z",
+      "departureStation": 32,
+      "arrivalStation": 47,
+      "totalMinutes": 17,
+      "transfers": 0,
+      "totalFare": 200,
+      "id": 1
+    },
+    {
+      "timestamp": "2023-11-14T13:12:10.631Z",
+      "departureStation": 15,
+      "arrivalStation": 8,
+      "totalMinutes": 18,
+      "transfers": 0,
+      "totalFare": 190,
+      "id": 2
+    },
+    {
+      "timestamp": "2023-11-14T13:16:44.410Z",
+      "departureStation": 43,
+      "arrivalStation": 38,
+      "totalMinutes": 17,
+      "transfers": 1,
+      "totalFare": 253,
+      "id": 3
+    },
+    {
+      "timestamp": "2023-11-23T08:27:10.495Z",
+      "departureStation": 1,
+      "arrivalStation": 9,
+      "totalMinutes": 10,
+      "transfers": 1,
+      "totalFare": 218,
+      "id": 4
+    },
+    {
+      "timestamp": "2023-11-23T08:45:09.304Z",
+      "departureStation": 18,
+      "arrivalStation": 34,
+      "totalMinutes": 28,
+      "transfers": 2,
+      "totalFare": 370,
+      "id": 5
+    },
+    {
+      "timestamp": "2023-11-23T08:55:57.039Z",
+      "departureStation": 33,
+      "arrivalStation": 61,
+      "totalMinutes": 12,
+      "transfers": 0,
+      "totalFare": 140,
+      "id": 6
+    },
+    {
+      "timestamp": "2023-11-23T09:02:21.092Z",
+      "departureStation": 4,
+      "arrivalStation": 2,
+      "totalMinutes": 4,
+      "transfers": 0,
+      "totalFare": 120,
+      "id": 7
+    },
+    {
+      "timestamp": "2023-11-23T09:02:33.546Z",
+      "departureStation": 5,
+      "arrivalStation": 69,
+      "totalMinutes": 24,
+      "transfers": 0,
+      "totalFare": 220,
+      "id": 8
+    },
+    {
+      "timestamp": "2023-11-23T09:02:42.961Z",
+      "departureStation": 3,
+      "arrivalStation": 49,
+      "totalMinutes": 24,
+      "transfers": 1,
+      "totalFare": 295,
+      "id": 9
+    },
+    {
+      "timestamp": "2023-11-23T09:05:34.295Z",
+      "departureStation": 33,
+      "arrivalStation": 61,
+      "totalMinutes": 12,
+      "transfers": 0,
+      "totalFare": 140,
+      "id": 10
+    },
+    {
+      "timestamp": "2023-11-25T06:50:34.051Z",
+      "departureStation": 0,
+      "arrivalStation": 18,
+      "totalMinutes": 6,
+      "transfers": 0,
+      "totalFare": 116,
+      "id": 11
+    },
+    {
+      "timestamp": "2023-11-25T06:50:44.402Z",
+      "departureStation": 19,
+      "arrivalStation": 50,
+      "totalMinutes": 23,
+      "transfers": 1,
+      "totalFare": 276,
+      "id": 12
+    },
+    {
+      "timestamp": "2023-11-25T07:03:38.003Z",
+      "departureStation": 20,
+      "arrivalStation": 2,
+      "totalMinutes": 21,
+      "transfers": 1,
+      "totalFare": 252,
+      "id": 13
+    },
+    {
+      "timestamp": "2023-11-25T07:39:59.179Z",
+      "departureStation": 0,
+      "arrivalStation": 18,
+      "totalMinutes": 6,
+      "transfers": 0,
+      "totalFare": 116,
+      "id": 14
+    },
+    {
+      "timestamp": "2023-11-25T07:41:49.683Z",
+      "departureStation": 0,
+      "arrivalStation": 49,
+      "totalMinutes": 18,
+      "transfers": 1,
+      "totalFare": 265,
+      "id": 15
+    },
+    {
+      "timestamp": "2023-11-25T09:54:58.510Z",
+      "departureStation": 8,
+      "arrivalStation": 43,
+      "totalMinutes": 16,
+      "transfers": 1,
+      "totalFare": 260,
+      "id": 16
+    },
+    {
+      "timestamp": "2023-11-25T10:04:37.463Z",
+      "departureStation": 0,
+      "arrivalStation": 1,
+      "totalMinutes": 2,
+      "transfers": 0,
+      "totalFare": 110,
+      "id": 17
+    },
+    {
+      "timestamp": "2023-11-25T10:04:51.776Z",
+      "departureStation": 1,
+      "arrivalStation": 35,
+      "totalMinutes": 21,
+      "transfers": 1,
+      "totalFare": 274,
+      "id": 18
+    },
+    {
+      "timestamp": "2023-11-25T10:05:22.320Z",
+      "departureStation": 1,
+      "arrivalStation": 35,
+      "totalMinutes": 21,
+      "transfers": 1,
+      "totalFare": 274,
+      "id": 19
+    },
+    {
+      "timestamp": "2023-11-25T10:19:23.537Z",
+      "departureStation": 0,
+      "arrivalStation": 19,
+      "totalMinutes": 9,
+      "transfers": 0,
+      "totalFare": 124,
+      "id": 20
+    },
+    {
+      "timestamp": "2023-11-25T10:19:36.595Z",
+      "departureStation": 3,
+      "arrivalStation": 49,
+      "totalMinutes": 24,
+      "transfers": 1,
+      "totalFare": 295,
+      "id": 21
+    },
+    {
+      "timestamp": "2023-11-25T10:19:43.082Z",
+      "departureStation": 20,
+      "arrivalStation": 65,
+      "totalMinutes": 33,
+      "transfers": 2,
+      "totalFare": 418,
+      "id": 22
+    },
+    {
+      "timestamp": "2023-11-25T10:19:53.285Z",
+      "departureStation": 19,
+      "arrivalStation": 20,
+      "totalMinutes": 3,
+      "transfers": 0,
+      "totalFare": 108,
+      "id": 23
+    },
+    {
+      "timestamp": "2023-11-25T10:20:42.350Z",
+      "departureStation": 2,
+      "arrivalStation": 38,
+      "totalMinutes": 27,
+      "transfers": 1,
+      "totalFare": 268,
+      "id": 24
+    },
+    {
+      "timestamp": "2023-11-25T10:26:21.304Z",
+      "departureStation": 1,
+      "arrivalStation": 34,
+      "totalMinutes": 19,
+      "transfers": 1,
+      "totalFare": 266,
+      "id": 25
+    },
+    {
+      "timestamp": "2023-11-25T10:27:17.701Z",
+      "departureStation": 1,
+      "arrivalStation": 34,
+      "totalMinutes": 19,
+      "transfers": 1,
+      "totalFare": 266,
+      "id": 26
+    },
+    {
+      "timestamp": "2023-11-25T10:27:27.763Z",
+      "departureStation": 2,
+      "arrivalStation": 50,
+      "totalMinutes": 25,
+      "transfers": 1,
+      "totalFare": 300,
+      "id": 27
+    },
+    {
+      "timestamp": "2023-11-25T10:27:46.024Z",
+      "departureStation": 2,
+      "arrivalStation": 68,
+      "totalMinutes": 28,
+      "transfers": 0,
+      "totalFare": 240,
+      "id": 28
+    },
+    {
+      "timestamp": "2023-11-25T10:28:45.279Z",
+      "departureStation": 1,
+      "arrivalStation": 62,
+      "totalMinutes": 32,
+      "transfers": 1,
+      "totalFare": 306,
+      "id": 29
+    },
+    {
+      "timestamp": "2023-11-25T10:28:54.566Z",
+      "departureStation": 5,
+      "arrivalStation": 50,
+      "totalMinutes": 30,
+      "transfers": 1,
+      "totalFare": 325,
+      "id": 30
+    },
+    {
+      "timestamp": "2023-11-25T10:54:02.243Z",
+      "departureStation": 0,
+      "arrivalStation": 35,
+      "totalMinutes": 19,
+      "transfers": 1,
+      "totalFare": 264,
+      "id": 31
+    },
+    {
+      "timestamp": "2023-11-25T10:54:10.326Z",
+      "departureStation": 4,
+      "arrivalStation": 65,
+      "totalMinutes": 26,
+      "transfers": 0,
+      "totalFare": 230,
+      "id": 32
+    },
+    {
+      "timestamp": "2023-11-25T10:56:05.914Z",
+      "departureStation": 1,
+      "arrivalStation": 62,
+      "totalMinutes": 32,
+      "transfers": 1,
+      "totalFare": 306,
+      "id": 33
+    },
+    {
+      "timestamp": "2023-11-25T10:59:53.573Z",
+      "departureStation": 1,
+      "arrivalStation": 46,
+      "totalMinutes": 28,
+      "transfers": 1,
+      "totalFare": 266,
+      "id": 34
+    },
+    {
+      "timestamp": "2023-11-25T11:00:01.986Z",
+      "departureStation": 19,
+      "arrivalStation": 39,
+      "totalMinutes": 16,
+      "transfers": 1,
+      "totalFare": 246,
+      "id": 35
+    },
+    {
+      "timestamp": "2023-11-25T11:03:42.460Z",
+      "departureStation": 1,
+      "arrivalStation": 52,
+      "totalMinutes": 26,
+      "transfers": 1,
+      "totalFare": 290,
+      "id": 36
+    },
+    {
+      "timestamp": "2023-11-25T13:41:45.117Z",
+      "departureStation": 4,
+      "arrivalStation": 18,
+      "totalMinutes": 19,
+      "transfers": 1,
+      "totalFare": 276,
+      "id": 37
+    }
+  ]
+}
