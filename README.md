@@ -4,7 +4,7 @@
 
 ### npm install
 
-###
+##
 
 ## (2) Start mock JSON Server
 
@@ -14,7 +14,7 @@ if necessary, install JSON Server with "npm install -g json-server"
 
 ### json-server --watch db.json --port 8080
 
-###
+##
 
 ## (3) Start Nuxt development server
 
